@@ -1,0 +1,18 @@
+Hardware Requirements:
+
+1. Arduino: Arduino 33 BLE Sense
+2. Android phone: Running android version 8 or above
+
+Installation instructions:
+
+To install arduino code:
+
+1. Open the fitbit.ino in arduino IDE.
+2. Set the board to Arduino Nano 33 BLE sense.
+3. Flash the arduino with the source code.
+
+To install companion app:
+
+1. Open FitBitAndroidApp in Android Studio.
+2. Connect your android phone to computer.
+3. Click install and run on Android studio.
